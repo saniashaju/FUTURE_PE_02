@@ -1,0 +1,25 @@
+Act as a professional UGC creator and social media strategist.
+
+Create a short-form UGC ad script for VisionForge AI from the perspective of a content creator.
+
+Target audience:
+- influencers
+- content creators
+- personal brands
+
+Hook style:
+Curiosity-driven
+
+Structure:
+1. Hook
+2. Creator Struggle
+3. Discovery
+4. Transformation
+5. CTA
+
+Requirements:
+- Instagram Reel style
+- conversational
+- authentic
+- under 45 seconds
+- creator-focused rather than business-focused
