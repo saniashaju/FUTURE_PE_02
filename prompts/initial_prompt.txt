@@ -1,0 +1,33 @@
+Act as a professional UGC ad scriptwriter and performance marketing strategist.
+
+Create a short-form UGC style advertisement script for an AI creative agency called “VisionForge AI”.
+
+About the service:
+VisionForge AI helps startups, creators, and businesses create:
+- AI-generated videos
+- social media creatives
+- AI ads
+- posters and branding visuals
+
+Target audience:
+Small business owners, creators, startups, and personal brands struggling to create high-quality content consistently.
+
+Platform:
+Instagram Reels / TikTok
+
+Tone:
+Authentic, modern, engaging, creator-style, and conversational.
+
+Script structure:
+1. Hook
+2. Problem
+3. Solution
+4. Benefits
+5. CTA
+
+Requirements:
+- Make the hook scroll-stopping
+- Keep the script natural and human-like
+- Avoid robotic marketing language
+- Make it feel like a creator genuinely recommending the service
+- Keep it under 45 seconds
