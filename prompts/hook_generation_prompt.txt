@@ -1,0 +1,20 @@
+Act as a senior performance marketing strategist.
+
+Using the same VisionForge AI service, generate:
+
+1. 10 scroll-stopping UGC hooks
+2. 3 different hook styles:
+   - Curiosity Hook
+   - Pain Point Hook
+   - Contrarian Hook
+
+Target audience:
+- startup founders
+- creators
+- small business owners
+
+Requirements:
+- Make hooks feel native to Instagram Reels
+- Keep them short
+- Avoid generic marketing language
+- Create curiosity in the first 3 seconds.
